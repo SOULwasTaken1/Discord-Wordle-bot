@@ -13,6 +13,11 @@ from Emojis import yellowEmoji, greenEmoji, grayEmoji #these are the discord emo
 key = "YOUR TOKEN HERE" #you can use .env instead too
 bot = commands.Bot(command_prefix = '~')
 
+def wordpick(): 
+    with open("words.txt") as f: 
+        words = f.read().splitlines() 
+        return random.choice(words)
+
 @bot.command()
 async def wordle(ctx):
   pfp = ctx.author.avatar_url
