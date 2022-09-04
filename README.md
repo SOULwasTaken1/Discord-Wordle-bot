@@ -11,7 +11,7 @@ If you need any additional help. Add !["SOUL"](https://dcbadge.vercel.app/api/sh
 
 ## 🔗 Links
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/soulvoid)
-[![](https://dcbadge.vercel.app/api/shield/971753818389905418?bot=true)
+![](https://dcbadge.vercel.app/api/shield/971753818389905418?bot=true)
 
 
 
