@@ -6,8 +6,8 @@ from webserver import keep_alive #use this only if you run this on replit
 from discord_components import *
 import random #to pick a random word
 from discord.ext import commands
-from Emojis import *
-from Emojis import yellowEmoji, greenEmoji, grayEmoji #these are the discord emotes You make.
+from Emojies import *
+from Emojies import yellowEmoji, greenEmoji, grayEmoji #these are the discord emotes You make.
 
 # important variable
 key = "YOUR TOKEN HERE" #you can use .env instead too
